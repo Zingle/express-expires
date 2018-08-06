@@ -1,0 +1,24 @@
+{
+  "name": "@zingle/express-expires",
+  "version": "0.0.1",
+  "description": "Express.js middleware to check for Expires header",
+  "main": "expires.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/Zingle/express-expires.git"
+  },
+  "author": "Richard Remer <reanjr@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Zingle/express-expires/issues"
+  },
+  "homepage": "https://github.com/Zingle/express-expires#readme",
+  "devDependencies": {
+    "expect.js": "^0.3.1",
+    "mocha": "^5.2.0",
+    "sinon": "^6.1.4"
+  }
+}
